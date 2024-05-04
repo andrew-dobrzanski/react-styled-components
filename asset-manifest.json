@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-styled-components/static/css/main.bb91890c.css",
-    "main.js": "/react-styled-components/static/js/main.aac63011.js",
+    "main.js": "/react-styled-components/static/js/main.2407fc36.js",
     "static/js/453.ed3810f9.chunk.js": "/react-styled-components/static/js/453.ed3810f9.chunk.js",
     "static/media/portfolio-bacon.png": "/react-styled-components/static/media/portfolio-bacon.61481ccbc727c0d2d148.png",
     "static/media/portfolio-dare-northward.png": "/react-styled-components/static/media/portfolio-dare-northward.6a54553eae040d833202.png",
@@ -23,11 +23,11 @@
     "static/media/logo.svg": "/react-styled-components/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-styled-components/index.html",
     "main.bb91890c.css.map": "/react-styled-components/static/css/main.bb91890c.css.map",
-    "main.aac63011.js.map": "/react-styled-components/static/js/main.aac63011.js.map",
+    "main.2407fc36.js.map": "/react-styled-components/static/js/main.2407fc36.js.map",
     "453.ed3810f9.chunk.js.map": "/react-styled-components/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb91890c.css",
-    "static/js/main.aac63011.js"
+    "static/js/main.2407fc36.js"
   ]
 }
