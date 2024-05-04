@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-styled-components/static/css/main.bb91890c.css",
-    "main.js": "/react-styled-components/static/js/main.22d6a8be.js",
+    "main.js": "/react-styled-components/static/js/main.aac63011.js",
     "static/js/453.ed3810f9.chunk.js": "/react-styled-components/static/js/453.ed3810f9.chunk.js",
     "static/media/portfolio-bacon.png": "/react-styled-components/static/media/portfolio-bacon.61481ccbc727c0d2d148.png",
     "static/media/portfolio-dare-northward.png": "/react-styled-components/static/media/portfolio-dare-northward.6a54553eae040d833202.png",
@@ -20,15 +20,14 @@
     "static/media/portfolio-contactForms.png": "/react-styled-components/static/media/portfolio-contactForms.ba09104bc8d30ae75a47.png",
     "static/media/portfolio-everwood-logo.png": "/react-styled-components/static/media/portfolio-everwood-logo.d06c22da66771547f3b3.png",
     "static/media/portfolio-ad-logo.png": "/react-styled-components/static/media/portfolio-ad-logo.6a25af33dda25ab95863.png",
-    "static/media/andrew-dobrzanski-logo.png": "/react-styled-components/static/media/andrew-dobrzanski-logo.5b8d44b73926423a7627.png",
     "static/media/logo.svg": "/react-styled-components/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-styled-components/index.html",
     "main.bb91890c.css.map": "/react-styled-components/static/css/main.bb91890c.css.map",
-    "main.22d6a8be.js.map": "/react-styled-components/static/js/main.22d6a8be.js.map",
+    "main.aac63011.js.map": "/react-styled-components/static/js/main.aac63011.js.map",
     "453.ed3810f9.chunk.js.map": "/react-styled-components/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb91890c.css",
-    "static/js/main.22d6a8be.js"
+    "static/js/main.aac63011.js"
   ]
 }
