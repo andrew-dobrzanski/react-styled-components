@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0e524f7b.css",
-    "main.js": "/static/js/main.12b82270.js",
+    "main.js": "/static/js/main.4a73658a.js",
     "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
     "static/media/portfolio-bacon.png": "/static/media/portfolio-bacon.61481ccbc727c0d2d148.png",
     "static/media/portfolio-dare-northward.png": "/static/media/portfolio-dare-northward.6a54553eae040d833202.png",
@@ -24,11 +24,11 @@
     "static/media/andrew-dobrzanski-logo.png": "/static/media/andrew-dobrzanski-logo.5b8d44b73926423a7627.png",
     "index.html": "/index.html",
     "main.0e524f7b.css.map": "/static/css/main.0e524f7b.css.map",
-    "main.12b82270.js.map": "/static/js/main.12b82270.js.map",
+    "main.4a73658a.js.map": "/static/js/main.4a73658a.js.map",
     "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e524f7b.css",
-    "static/js/main.12b82270.js"
+    "static/js/main.4a73658a.js"
   ]
 }
