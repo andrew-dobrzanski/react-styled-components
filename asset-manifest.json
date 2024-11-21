@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e524f7b.css",
-    "main.js": "/static/js/main.4a73658a.js",
+    "main.css": "/static/css/main.d9d3f580.css",
+    "main.js": "/static/js/main.5a192218.js",
     "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
     "static/media/portfolio-bacon.png": "/static/media/portfolio-bacon.61481ccbc727c0d2d148.png",
     "static/media/portfolio-dare-northward.png": "/static/media/portfolio-dare-northward.6a54553eae040d833202.png",
@@ -23,12 +23,12 @@
     "static/media/portfolio-ad-logo.png": "/static/media/portfolio-ad-logo.6a25af33dda25ab95863.png",
     "static/media/andrew-dobrzanski-logo.png": "/static/media/andrew-dobrzanski-logo.5b8d44b73926423a7627.png",
     "index.html": "/index.html",
-    "main.0e524f7b.css.map": "/static/css/main.0e524f7b.css.map",
-    "main.4a73658a.js.map": "/static/js/main.4a73658a.js.map",
+    "main.d9d3f580.css.map": "/static/css/main.d9d3f580.css.map",
+    "main.5a192218.js.map": "/static/js/main.5a192218.js.map",
     "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e524f7b.css",
-    "static/js/main.4a73658a.js"
+    "static/css/main.d9d3f580.css",
+    "static/js/main.5a192218.js"
   ]
 }
